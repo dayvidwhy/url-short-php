@@ -44,6 +44,3 @@ So if we navigate to `http://url-short.com/462a` a few things will happen:
 * Better validation
 * Rate limiting to prevent abuse
 * Configure apache to produce 302 instead of redirecting in php.
-
-## What does it look like?
-![PHP Url Shortener](https://davidyoung.tech/im/urlshort.jpg "PHP Url Shortener")
